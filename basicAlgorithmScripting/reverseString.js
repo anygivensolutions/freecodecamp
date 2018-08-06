@@ -14,4 +14,7 @@ function reverse(arr) {
   }
 return reversedArray;
 } reverse(newArray);
+
+var str = newArray.toString();
+return str;
 // put back into a string and return it
